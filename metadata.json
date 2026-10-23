@@ -1,0 +1,6 @@
+{
+  "name": "RevenAI - Smart Sales Prediction and Analytics System",
+  "description": "RevenAI is a comprehensive Sales Intelligence and Decision Support System featuring predictive machine learning, future demand forecasting, inventory risk analysis, and business recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
